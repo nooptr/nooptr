@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/5398914/236104348-c21e7206-4ab6-41d3-a5cc-bf22dc5e76c1.png)
+
 
 <!--
 **nooptr/nooptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
